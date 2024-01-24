@@ -1,0 +1,1 @@
+Proje Özeti : Özellikleri belirtildiğinde kişilerin diyabet hastası olup olmadıklarını tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi istenmektedir. Modeli geliştirirken gerekli veri analizi ve özellik mühendisliği adımları uygulanmıştır.
